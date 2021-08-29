@@ -18,6 +18,7 @@
   "homepage": "https://github.com/rohitchaudhry362/NodeJSLearning#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "joi": "^13.1.0",
     "mongoose": "^6.0.2",
     "underscore": "^1.13.1"
   },
